@@ -1,3 +1,4 @@
+<img width="1252" height="610" alt="chess" src="https://github.com/user-attachments/assets/37ae058b-ad4c-4385-aadb-aa77737a51c6" />
 <!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=3D%20Chess%20Game&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
