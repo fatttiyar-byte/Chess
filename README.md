@@ -65,28 +65,3 @@
 
 <br />
 
-<!-- Contribution Snake (requires GitHub Action setup) -->
-<div align="center">
-  <h2>🐍 Contribution Activity</h2>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/snake-dark.svg" width="100%" />
-</div>
-
-<br />
-
-<!-- Quick Start -->
-<div align="center">
-  <h2>🚀 Quick Start</h2>
-</div>
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-
-# Navigate to project folder
-cd YOUR_REPO
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
