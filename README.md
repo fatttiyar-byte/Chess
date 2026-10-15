@@ -1,4 +1,4 @@
-<img width="1252" height="610" alt="chess" src="https://github.com/user-attachments/assets/37ae058b-ad4c-4385-aadb-aa77737a51c6" />
+
 <!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=3D%20Chess%20Game&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -24,9 +24,10 @@
 <!-- Project Preview (replace with your screenshot) -->
 <div align="center">
   <h2>🎮 Preview</h2>
-  <img src="https://via.placeholder.com/800x450/1a1a2e/8b5cf6?text=Add+Your+Game+Screenshot+Here" width="800" style="border-radius: 12px; border: 1px solid rgba(139,92,246,0.3);" />
+  <img width="1252" height="610" alt="chess" src="" />
+  <img src="https://github.com/user-attachments/assets/37ae058b-ad4c-4385-aadb-aa77737a51c6" width="800" style="border-radius: 12px; border: 1px solid rgba(139,92,246,0.3);" />
   <br />
-  <em>Screenshot placeholder — replace with an actual image of your game</em>
+
 </div>
 
 <br />
