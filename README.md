@@ -58,9 +58,9 @@
 <div align="center">
   <h2>📊 Project Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=c4b5fd" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatttiyar-byte&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=c4b5fd" width="420" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=c4b5fd" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatttiyar-byte&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=c4b5fd" width="420" />
 </div>
 
 <br />
