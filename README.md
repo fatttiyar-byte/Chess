@@ -24,7 +24,7 @@
 <!-- Project Preview (replace with your screenshot) -->
 <div align="center">
   <h2>🎮 Preview</h2>
-  <img width="1252" height="610" alt="chess" src="" />
+  
   <img src="https://github.com/user-attachments/assets/37ae058b-ad4c-4385-aadb-aa77737a51c6" width="800" style="border-radius: 12px; border: 1px solid rgba(139,92,246,0.3);" />
   <br />
 
